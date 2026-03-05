@@ -17,8 +17,8 @@ Every time the page loads or refreshes:
 ---
 
 ## 🚀 Live Demo
-
-[Click here to play]((https://merin08.github.io/dice-challenge/))
+Dice Challenge
+[Click here to play](https://merin08.github.io/dice-challenge/)
 
 ---
 
@@ -61,7 +61,7 @@ dice-challenge/
 ## 👤 Author
 
 **Your Name**  
-[GitHub Profile](https://github.com/merin08)
+[My Profile](https://github.com/merin08)
 
 ---
 
