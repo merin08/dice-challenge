@@ -18,7 +18,7 @@ Every time the page loads or refreshes:
 
 ## 🚀 Live Demo
 
-[Click here to play](https://your-username.github.io/dice-challenge)
+[Click here to play]((https://merin08.github.io/dice-challenge/))
 
 > *(Replace the link above with your actual GitHub Pages URL)*
 
