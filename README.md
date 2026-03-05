@@ -20,8 +20,6 @@ Every time the page loads or refreshes:
 
 [Click here to play]((https://merin08.github.io/dice-challenge/))
 
-> *(Replace the link above with your actual GitHub Pages URL)*
-
 ---
 
 ## 🛠️ Built With
